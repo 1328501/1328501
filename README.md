@@ -12,7 +12,7 @@
   </a>
 </div>
 
-## 📄 Sobre mí
+<h2 align="center"> 📄 Sobre mí</h2>
 Soy un Cientifico de Datos apasionado por la tecnología, los datos y la innovación. Me encanta colaborar en proyectos que marcan la diferencia y siempre estoy buscando aprender nuevas habilidades y mejorar las existentes.
 
 <h2 align="center">🚀 Habilidades</h2>
